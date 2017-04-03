@@ -35,8 +35,8 @@
 #        'security/ir.model.access.csv',
     ],
     'demo': [
-#        'demo/l10n_br_base_demo.xml',
-#        'demo/res_partner_demo.xml',
+       'demo/l10n_br_base_demo.xml',
+       'demo/res_partner_demo.xml',
     ],
     'test': [
 #        'test/base_inscr_est_valid.yml',
